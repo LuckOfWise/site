@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# プライバシーポリシー
 
-You can use the [editor on GitHub](https://github.com/LuckOfWise/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 個人情報について
+当アプリではサポートのためメールを公開していますが、受けたメールのアドレス、内容については個人情報として扱います。これら個人情報は、法令に基づき開示することが必要である場合を除いては第三者に提供しません。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 広告について
+当アプリではGoogleの広告サービス(AdMob)を利用しています。AdMobのプライバシーポリシーに関しては[https://policies.google.com/privacy](こちら)をご参照ください。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuckOfWise/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## レポートについて
+当アプリではクラッシュレポートおよび個人を特定できない利用統計レポートのために、GoogleのFirebaseおよびCrashrytics、GoogleAnalyticsを使用しています。各サービスのプライバシーポリシーについては以下をご参照ください。
