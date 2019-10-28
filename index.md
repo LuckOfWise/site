@@ -1,5 +1,4 @@
 ---
-layout: default
 title: プライバシーポリシー
 github:
   is_project_page: false
